@@ -143,8 +143,8 @@
     <p>
       Feedback is always welcome, so if you have any to give on this challenge
       please email
-      <a href="mailto:sana@journeymentor.net"
-        >Sana[at]JourneyMentor[dot]Net</a
+      <a href="mailto:hassan@journeymentor.net"
+        >Hassan[at]JourneyMentor[dot]Net</a
       >.
     </p>
     <p><strong>Have fun building!</strong> 🚀</p>
